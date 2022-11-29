@@ -111,7 +111,7 @@ textarea{
         grid-template-columns: 1fr;
     }
     .left{
-Width:90%,
+Width:90%;
         max-height: 350px;
     }
 }
